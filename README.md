@@ -1,7 +1,5 @@
 # Lines of Code Calculator
 
-![Build Status](https://travis-ci.org/work95/lines-of-code-calculator.svg?branch=master)
-
 ## Table of Contents
 
 - [Dependencies](#markdown-header-dependencies)
