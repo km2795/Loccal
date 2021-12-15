@@ -1,0 +1,6 @@
+node_modules/
+public/font
+public/font*
+/uploads/
+dist/
+loc.js

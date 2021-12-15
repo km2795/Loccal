@@ -1,0 +1,26 @@
+{
+  "name": "xc9-loccal",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "babel ./src --out-dir dist/ && mv dist/main.js ./loc.js",
+    "clean": "rm -rf dist && rm loc.js",
+    "test": "npm run build && jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "dotenv": "^5.0.1",
+    "log-update": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
