@@ -18,9 +18,9 @@
     "log-update": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "babel-jest": "^24.8.0",
-    "jest": "^24.8.0"
+    "@babel/cli": "^7.16.0",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
   }
 }
