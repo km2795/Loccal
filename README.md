@@ -16,19 +16,19 @@ NPM
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/work95/lines-of-code-calculator.git
+git clone https://github.com/km2795/Loccal.git
 ```
 
 ### 2. Get inside the cloned repository
 
 ```bash
-cd lines-of-code-calculator
+cd Loccal
 ```
 
-### 3. Checkout the master branch, if it's not already.
+### 3. Checkout the main branch, if it's not already.
 
 ```bash
-git checkout master
+git checkout main
 ```
 
 ### 4. Install dependencies
