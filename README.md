@@ -8,8 +8,8 @@
 
 ## Dependencies
 
-Node.js
-NPM
+- Node.js
+- NPM
 
 ## How to install
 
